@@ -1,0 +1,274 @@
+{
+  "colors": [
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/snow_white.jpg",
+      "value": "Snow White",
+      "name": { "en": "Snow White", "tr": "Kar Beyazı", "de": "Schneeweiß" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/soft_black.jpg",
+      "value": "Soft Black",
+      "name": {
+        "en": "Soft Black",
+        "tr": "Doğal Siyah",
+        "de": "Sanftes Schwarz"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/platinum_blonde.jpg",
+      "value": "Platinum Blonde",
+      "name": {
+        "en": "Platinum Blonde",
+        "tr": "Platin Sarı",
+        "de": "Platinblond"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/espresso_brown.jpg",
+      "value": "Espresso Brown",
+      "name": {
+        "en": "Espresso Brown",
+        "tr": "Espresso Kahve",
+        "de": "Espressobraun"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/silver_grey.jpg",
+      "value": "Silver Grey",
+      "name": { "en": "Silver Grey", "tr": "Gümüş Gri", "de": "Silbergrau" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/dark_chocolate_brown.jpg",
+      "value": "Dark Chocolate Brown",
+      "name": {
+        "en": "Dark Chocolate Brown",
+        "tr": "Bitter Çikolata Kahve",
+        "de": "Dunkles Schokobraun"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/beige_blonde.jpg",
+      "value": "Beige Blonde",
+      "name": { "en": "Beige Blonde", "tr": "Bej Sarı", "de": "Beigeblond" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/medium_brown.jpg",
+      "value": "Medium Brown",
+      "name": { "en": "Medium Brown", "tr": "Orta Kahve", "de": "Mittelbraun" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/sandy_blonde.jpg",
+      "value": "Sandy Blonde",
+      "name": { "en": "Sandy Blonde", "tr": "Kum Sarısı", "de": "Sandblond" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/chestnut_brown.jpg",
+      "value": "Chestnut Brown",
+      "name": {
+        "en": "Chestnut Brown",
+        "tr": "Kestane Kahve",
+        "de": "Kastanienbraun"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/honey_blonde.jpg",
+      "value": "Honey Blonde",
+      "name": { "en": "Honey Blonde", "tr": "Bal Sarısı", "de": "Honigblond" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/auburn.jpg",
+      "value": "Auburn",
+      "name": { "en": "Auburn", "tr": "Kızıl Kahve", "de": "Auburn" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/golden_blonde.jpg",
+      "value": "Golden Blonde",
+      "name": { "en": "Golden Blonde", "tr": "Altın Sarısı", "de": "Goldblond" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/deep_burgundy.jpg",
+      "value": "Deep Burgundy",
+      "name": {
+        "en": "Deep Burgundy",
+        "tr": "Koyu Mürdüm / Bordo",
+        "de": "Dunkles Burgund"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/strawberry_blonde.jpg",
+      "value": "Strawberry Blonde",
+      "name": {
+        "en": "Strawberry Blonde",
+        "tr": "Çilek Sarısı",
+        "de": "Erdbeerblond"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/copper_red.jpg",
+      "value": "Copper Red",
+      "name": { "en": "Copper Red", "tr": "Bakır Kızıl", "de": "Kupferrot" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/light_golden_brown.jpg",
+      "value": "Light Golden Brown",
+      "name": {
+        "en": "Light Golden Brown",
+        "tr": "Açık Altın Kahve",
+        "de": "Helles Goldbraun"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/ginger_red.jpg",
+      "value": "Ginger Red",
+      "name": { "en": "Ginger Red", "tr": "Zencefil Kızılı", "de": "Ingwerrot" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/light_ash_brown.jpg",
+      "value": "Light Ash Brown",
+      "name": {
+        "en": "Light Ash Brown",
+        "tr": "Açık Küllü Kahve",
+        "de": "Helles Aschbraun"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/charcoal_grey.jpg",
+      "value": "Charcoal Grey",
+      "name": {
+        "en": "Charcoal Grey",
+        "tr": "Kömür Grisi",
+        "de": "Anthrazitgrau"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/dark_dirty_blonde.jpg",
+      "value": "Dark/Dirty Blonde",
+      "name": { "en": "Dark Blonde", "tr": "Koyu Kumral", "de": "Dunkelblond" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/ash_blonde.jpg",
+      "value": "Ash Blonde",
+      "name": { "en": "Ash Blonde", "tr": "Küllü Sarı", "de": "Aschblond" }
+    }
+  ],
+  "prompt_helper": {
+    "negative_style": "Modify ONLY the silhouette and structure of the hair. Do not introduce new colors; preserve the base tone from the original image. Ensure 1:1 facial identity mapping.",
+    "change_hair_color": "Change hair color to {{color}}, preserve original hairstyle and cut, keep natural hair texture, realistic lighting, highly detailed, seamless blend."
+  },
+  "female": [
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/pixie_cut.jpg",
+      "prompt": "A textured, short pixie haircut with tapered sides. Change only the style, preserving the original face and color.",
+      "name": {
+        "en": "Pixie Cut",
+        "tr": "Pixie Kesim",
+        "de": "Pixie-Schnitt"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/bob_cut.jpg",
+      "prompt": "A sharp, chin-length straight bob cut. Keep the original hair color, face, and background exactly the same.",
+      "name": {
+        "en": "Blunt Bob",
+        "tr": "Küt Bob",
+        "de": "Stumpfer Bob"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/layered_long_cut.jpg",
+      "prompt": "Long hair with heavy face-framing layers and V-cut ends. Maintain the woman's identity and original hair color.",
+      "name": {
+        "en": "Layered Long Cut",
+        "tr": "Katlı Uzun Kesim",
+        "de": "Gestufter Mittellang"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/curtain_bangs.jpg",
+      "prompt": "Long hair with soft curtain bangs and voluminous layers. Ensure the woman's facial features remain 100% identical.",
+      "name": {
+        "en": "Curtain Bangs",
+        "tr": "Perde Kahkül (Curtain Bangs)",
+        "de": "Welliger Lob"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/blunt_nangs.jpg",
+      "prompt": "Straight long hair with thick, blunt-cut eyebrow-level bangs. Only modify the hair shape, keeping the original color.",
+      "name": {
+        "en": "Blunt Bangs",
+        "tr": "Küt Patlamalar (Blunt Bangs)",
+        "de": "Stumpfe Haare"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/shoulder_length_lob.jpg",
+      "prompt": "A textured, shoulder-length long bob (Lob). The face, background, and hair color must remain untouched.",
+      "name": {
+        "en": "Shoulder Length Lob",
+        "tr": "Omuz Boyu Lob",
+        "de": "Schulterlanges Lob"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/asymmetrical_cut.jpg",
+      "prompt": "A modern asymmetrical haircut, shorter on one side and longer on the other. Preserve the original photo's identity.",
+      "name": {
+        "en": "Asymmetrical Cut",
+        "tr": "Asimetrik Kesim",
+        "de": "Asymmetrischer Kurzhaarschnitt"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/wolf_cut.jpg",
+      "prompt": "A trendy wolf cut with shaggy layers and a messy fringe. Keep the woman's face and original hair color constant.",
+      "name": {
+        "en": "Wolf Cut",
+        "tr": "Düz Perçemli Uzun Kesim",
+        "de": "Wolf Cut"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/tightly_gathered_ponytail.jpg",
+      "prompt": "A high, sleek ponytail pulled back tightly. Change only the hair arrangement, maintaining the facial structure.",
+      "name": {
+        "en": "Tightly Gathered Ponytail",
+        "tr": "Sıkı Toplanmış At Kuyruğu",
+        "de": "Tight Ponytail"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/water_waves.jpg",
+      "prompt": "Deep, permanent-style water waves with consistent texture throughout. Do not alter the face or the background.",
+      "name": {
+        "en": "Water Waves",
+        "tr": "Su Dalgası",
+        "de": "Wasserwellen"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/shag_cut.jpg",
+      "prompt": "A vintage-style shag haircut with choppy layers and volume at the crown. Keep the original hair color and face.",
+      "name": {
+        "en": "Shag Cut",
+        "tr": "Kıvırcık Kesim",
+        "de": "Kurzhaarschnitt"
+      }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/colors/jet_black.jpg",
+      "value": "Jet Black",
+      "name": { "en": "Jet Black", "tr": "Gece Siyahı", "de": "Tiefschwarz" }
+    },
+    {
+      "image": "https://exlinetr.github.io/styleswap/images/styles/female/buzz_cut.jpg",
+      "prompt": "A very short, uniform buzz cut. The woman's face, eyes, and background must remain exactly as in the source photo.",
+      "name": {
+        "en": "Short Buzz Cut",
+        "tr": "Kısa Buzz Kesim",
+        "de": "Kurzer Buzz Cut"
+      }
+    }
+  ],
+  "male": []
+}
